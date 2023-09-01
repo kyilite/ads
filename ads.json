@@ -5,15 +5,15 @@
   "appopenbanner":"https://raw.githubusercontent.com/fotlivemm123/vaads/main/407%20x%20900.jpg",
  "appopenlink":"m.me/fun247sportsandentertainment",
  "appopenmessenger":"yes",
- "openonoff":"on",
+ "openonoff":"off",
 
 
  "topbannerimg":"https://raw.githubusercontent.com/fotlivemm123/2023ads/main/FOT%20LIVE%20300x100.gif",
 "topbannerlink":"https://bit.ly/47vd3Ap",
  "topbannermessenger":"no",
- "topbanneronoff":"on",
+ "topbanneronoff":"off",
 
-  "p": "yes",
+  "p": "no",
 "pimg": "https://raw.githubusercontent.com/fotlivemm123/2023ads/main/mt.gif",
 "pmessenger":"no",
 "plink":"https://bit.ly/G7AdsFL",
@@ -28,9 +28,9 @@
 "bannerimg":"https://raw.githubusercontent.com/fotlivemm123/2023ads/main/photo_2023-08-04_11-25-47.jpg",
 "bannerlink":"https://bit.ly/3KI4E2P",
  "bannermessenger":"no",
- "banneronoff":"on",
+ "banneronoff":"off",
  
-"inter": "yes",
+"inter": "no",
 "img": "https://raw.githubusercontent.com/fotlivemm123/2023ads/main/FOTLIVE%20480x900.gif",
 "messenger":"no",
 "link":"https://bit.ly/47vd3Ap"
